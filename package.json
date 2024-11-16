@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This repository contains a hello world chrome extension from the developer.chrome.com",
+  "main": "index.js",
+  "dependencies": {
+    "chrome-types": "^0.1.321"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
